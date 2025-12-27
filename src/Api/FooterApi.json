@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "FaGitSquare",
+    "title": "GitHub",
+    "github": "https://github.com/dheerajindoriya58-art/Buy-nest"
+  },
+  {
+    "id": 2,
+    "icon": "FaLinkedin",
+    "title": "LinkedIn",
+    "github": "https://www.linkedin.com/in/dheeraj-prajapati-a11121359/"
+  },
+  {
+    "id": 3,
+    "icon": "MdEmail",
+    "title": "Email",
+    "github": "mailto:dheerajindoriya58@gmail.com"
+  }
+]

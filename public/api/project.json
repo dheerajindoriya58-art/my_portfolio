@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "To-Do App",
+    "description": "A simple to-do list app with add, edit, and delete features.",
+    "tech": [
+      "HTML, CSS, JavaScript"
+    ],
+    "image": "https://images.unsplash.com/photo-1712000155290-ee65c0a82eda?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG8lMjBkb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+    "github": "https://github.com/dheerajindoriya58-art/To-do-App",
+    "liveDemo": "https://todosearchlist.netlify.app/"
+  },
+  {
+    "id": 2,
+    "title": "Weather App",
+    "description": "A simple weather application built with HTML, CSS, and JavaScript that fetches real-time weather data using an API.",
+    "tech": [
+      "HTML, CSS, JavaScript"
+    ],
+    "image": "https://media.istockphoto.com/id/1301200293/photo/woman-outside-in-city-checking-weather-forecast-on-her-mobile-phone.jpg?s=1024x1024&w=is&k=20&c=fKBxG0HczRYNziGi_fF5AUiFGvKYz2akJ17zEqCPpfA=",
+    "github": "https://github.com/dheerajindoriya58-art/weather_app",
+    "liveDemo": "https://randomweather.netlify.app/"
+  },
+  {
+    "id": 3,
+    "title": "Image Gallery",
+    "description": "A responsive image gallery built with React and CSS.",
+    "tech": [
+      "React, CSS"
+    ],
+    "image": "https://media.istockphoto.com/id/1201169785/photo/blue-responsive-desktop-with-devices-showing-responsive-portfolio-website.jpg?s=1024x1024&w=is&k=20&c=cHEA3sMy6CzEA8YExe2g9beQZ0RvgmJeJPpYCn-K4oQ=",
+    "github": "https://github.com/dheerajindoriya58-art/Images_slider",
+    "liveDemo": "https://imagesslidergallery.netlify.app/"
+  },
+  {
+    "id": 4,
+    "title": "E-Commerce",
+    "description": "Frontend layout for an e-commerce website with product cards and responsive design.",
+    "tech": [
+      "React, CSS"
+    ],
+    "image": "https://media.istockphoto.com/id/1249219777/photo/shopping-online-concept-parcel-or-paper-cartons-with-a-shopping-cart-logo-in-a-trolley-on-a.webp?a=1&b=1&s=612x612&w=0&k=20&c=SKHGjU04CDDZfEULQheYGuIgcteXQR8Mf5q3mjG0qos=",
+    "github": "https://github.com/dheerajindoriya58-art/Buy-nest",
+    "liveDemo": "https://shopping-react19.netlify.app/"
+  }
+]

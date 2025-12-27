@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "icon": "FaGitSquare",
+        "title": "Github"
+    },
+    {
+        "id": 2,
+        "icon": "FaLinkedin",
+        "title": "LinkedIn"
+    },
+    {
+        "id": 3,
+        "icon": "MdEmail",
+        "title": "Email"
+    }
+]
