@@ -2,48 +2,37 @@
   {
     "id": 1,
     "title": "To-Do App",
-    "description": "A simple to-do list app with add, edit, and delete features.",
-    "tech": [
-      "HTML, CSS, JavaScript"
-    ],
-    "image": "https://images.unsplash.com/photo-1712000155290-ee65c0a82eda?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG8lMjBkb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+    "description": "A responsive to-do list application with add, edit, and delete functionality.",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "image": "https://images.unsplash.com/photo-1712000155290-ee65c0a82eda?auto=format&fit=crop&w=500&q=60",
     "github": "https://github.com/dheerajindoriya58-art/To-do-App",
     "liveDemo": "https://todosearchlist.netlify.app/"
   },
   {
     "id": 2,
     "title": "Weather App",
-    "description": "A simple weather application built with HTML, CSS, and JavaScript that fetches real-time weather data using an API.",
-    "tech": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ],
-    "image": "https://media.istockphoto.com/id/1301200293/photo/woman-outside-in-city-checking-weather-forecast-on-her-mobile-phone.jpg?s=1024x1024&w=is&k=20&c=fKBxG0HczRYNziGi_fF5AUiFGvKYz2akJ17zEqCPpfA=",
+    "description": "Weather application that fetches real-time data using a public API.",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "image": "https://images.unsplash.com/photo-1501973801540-537f08ccae7b?auto=format&fit=crop&w=500&q=60",
     "github": "https://github.com/dheerajindoriya58-art/weather_app",
     "liveDemo": "https://randomweather.netlify.app/"
   },
   {
     "id": 3,
     "title": "Movie App",
-    "description": "A responsive movie app built with React and CSS.",
-    "tech": [
-      "React, CSS"
-    ],
-    "image":"cover.png",
-    "github":"https://github.com/dheerajindoriya58-art/movie_web",
-    "liveDemo":"https://avengers-movie-app.netlify.app/"
+    "description": "Responsive movie browsing application built using React.",
+    "tech": ["React", "CSS"],
+    "image": "/images/cover.jpg",
+    "github": "https://github.com/dheerajindoriya58-art/movie_web",
+    "liveDemo": "https://avengers-movie-app.netlify.app/"
   },
   {
     "id": 4,
     "title": "E-Commerce",
-    "description": "Frontend layout for an e-commerce website with product cards and responsive design.",
-    "tech": [
-      "React, Tailwind CSS"
-    ],
-    "image": "https://media.istockphoto.com/id/1249219777/photo/shopping-online-concept-parcel-or-paper-cartons-with-a-shopping-cart-logo-in-a-trolley-on-a.webp?a=1&b=1&s=612x612&w=0&k=20&c=SKHGjU04CDDZfEULQheYGuIgcteXQR8Mf5q3mjG0qos=",
+    "description": "Modern e-commerce frontend layout with responsive product cards.",
+    "tech": ["React", "Tailwind CSS"],
+    "image": "https://images.unsplash.com/photo-1515168833906-d2a3b82b302a?auto=format&fit=crop&w=500&q=60",
     "github": "https://github.com/dheerajindoriya58-art/Shopsy",
     "liveDemo": "https://shopsy-react19.netlify.app/"
   }
 ]
-

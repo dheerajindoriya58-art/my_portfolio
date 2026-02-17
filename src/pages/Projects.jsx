@@ -13,7 +13,7 @@ const Project = () => {
           </h2>
         </NavLink>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {projectsApi.map((cur, ind) => {
             const { title, description, image, tech, github, liveDemo } = cur
 
@@ -33,7 +33,7 @@ const Project = () => {
                 </h1>
 
                 <p className="text-xs sm:text-sm md:text-base font-medium text-gray-600">
-                  {tech}
+                  {tech.join(" • ")}
                 </p>
 
                 <p className="text-xs sm:text-sm md:text-base text-gray-700 mt-1 flex-grow">
