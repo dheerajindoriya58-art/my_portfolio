@@ -25,14 +25,14 @@
   },
   {
     "id": 3,
-    "title": "Image Gallery",
-    "description": "A responsive image gallery built with React and CSS.",
+    "title": "Movie App",
+    "description": "A responsive movie app built with React and CSS.",
     "tech": [
       "React, CSS"
     ],
-    "image": "https://media.istockphoto.com/id/1201169785/photo/blue-responsive-desktop-with-devices-showing-responsive-portfolio-website.jpg?s=1024x1024&w=is&k=20&c=cHEA3sMy6CzEA8YExe2g9beQZ0RvgmJeJPpYCn-K4oQ=",
-    "github": "https://github.com/dheerajindoriya58-art/Images_slider",
-    "liveDemo": "https://imagesslidergallery.netlify.app/"
+    "image":"cover.png",
+    "github":"https://github.com/dheerajindoriya58-art/movie_web",
+    "liveDemo":"https://avengers-movie-app.netlify.app/"
   },
   {
     "id": 4,
@@ -46,3 +46,4 @@
     "liveDemo": "https://shopsy-react19.netlify.app/"
   }
 ]
+
